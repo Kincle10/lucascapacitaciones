@@ -1,4 +1,4 @@
-# LucasCapacitaciones
+# Lucas Capacitaciones
 
 Este repositorio contiene los archivos para la página web de LucasCapacitaciones.
 
